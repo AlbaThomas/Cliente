@@ -180,7 +180,7 @@ public class Cliente1 {
             } else {
                 System.out.println(cliente.getNombre() + " es menor de edad.");
             }
-
+            System.out.println("Linea 2 añadida para push");
             System.out.println(cliente1);
             System.out.println(cliente2);
             System.out.println();
